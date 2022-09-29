@@ -1,0 +1,101 @@
+
+
+.button1 {background: #00D83D;
+        position:absolute;
+        height: 52px;
+        width: 249px;
+        left: 51px;
+        top: 588px;
+        border-radius: 10px;
+        border: 1px solid #00D83D}
+
+.button1>button{height: 24px;
+        position:absolute;
+        width: 79px;
+        left: 136px;
+        top: 602px;
+        border-radius: nullpx;
+        font-family: Inter;
+        font-size: 20px;
+        font-weight: 700;
+        line-height: 24px;
+        letter-spacing: 0em;
+        text-align: left;
+        background: #FFFFFF;}
+
+
+
+     header{height: 31px;
+            width: 65px;
+            left: 142px;
+            top: 9px;
+            border-radius: 5px;
+            position: absolute;}
+
+
+#form p{height: 19px;
+        width: 76px;
+        left: 18px;
+        top: 237px;
+        border-radius: nullpx;
+        font-family: Roboto;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 19px;
+        letter-spacing: 0em;
+        text-align: left;
+        background: #150F0F;
+
+}
+
+form{height: 40px;
+        width: 310px;
+        left: 18px;
+        top: 268px;
+        border-radius: 10px;
+        background: linear-gradient(0deg, rgba(237, 33, 131, 0.2), rgba(237, 33, 131, 0.2)),
+        linear-gradient(0deg, #FFFFFF, #FFFFFF);
+        border: 1px solid #ED218333;
+        box-sizing: border-box;}
+
+
+
+/*
+.fa-solid{
+height: 18.32004165649414px;
+width: 18.335153579711914px;
+left: 1.83349609375px;
+top: 1.846634864807129px;
+border-radius: 0px;}
+
+.fa-light{width: 2em;
+        height: 2.2em;}
+
+.fa-thin{height: 15px;
+        width: 15px;
+        left: 1.5px;
+        top: 1.5px;
+        border-radius: 0px;
+        background-color: #E5E5E5CC;
+        border: 2px solid #E5E5E5CC }
+
+.fa-regular {height: 26.666671752929688px;
+            width: 26.666671752929688px;
+            left: 2.666748046875px;
+            top: 2.6666784286499023px;
+            border-radius: 0px;
+            background: #ED2183;}
+
+.fa-bell {height: 17.875px;
+        width: 14.666666984558105px;
+        left: 3.666748046875px;
+        top: 2.2916669845581055px;
+        border-radius: 0px;
+        background: #000000;
+}
+
+
+
+
+
+
