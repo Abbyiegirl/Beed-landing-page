@@ -1,27 +1,17 @@
 
 
-.button1 {background: #00D83D;
-        position:absolute;
+button {background: #00D83D;
+       /* position:absolute;*/
         height: 52px;
-        width: 249px;
+        width: 240px;
+        font-size:25px;
         left: 51px;
         top: 588px;
         border-radius: 10px;
         border: 1px solid #00D83D}
 
-.button1>button{height: 24px;
-        position:absolute;
-        width: 79px;
-        left: 136px;
-        top: 602px;
-        border-radius: nullpx;
-        font-family: Inter;
-        font-size: 20px;
-        font-weight: 700;
-        line-height: 24px;
-        letter-spacing: 0em;
-        text-align: left;
-        background: #FFFFFF;}
+     footer{display:flex;
+            position:absolute;}
 
 
 
@@ -48,15 +38,17 @@
 
 }
 
-form{height: 40px;
-        width: 310px;
+form{height: 24px;
+        width: 180px;
         left: 18px;
         top: 268px;
         border-radius: 10px;
         background: linear-gradient(0deg, rgba(237, 33, 131, 0.2), rgba(237, 33, 131, 0.2)),
         linear-gradient(0deg, #FFFFFF, #FFFFFF);
         border: 1px solid #ED218333;
-        box-sizing: border-box;}
+        box-sizing: border-box;
+}
+
 
 
 
